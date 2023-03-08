@@ -9,10 +9,18 @@ import { PrintableCollection } from "./printable-collection";
  * cadena de los números de la colección separados por espacios.
  */
 export class StringPrintableCollection extends PrintableCollection<string> {
+    /**
+     * Constructor de la clase 
+     * @param items array con los items numericos
+     */
     constructor(items: string[]) {
         super(items);
     }
 
+    /**
+     * retorna una cadena con formato para imprimir
+     * @returns 
+     */
     print(){
         return this.items.reduce((acc, item) => acc + item + ' ', '')
     }
