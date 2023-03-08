@@ -1,0 +1,15 @@
+{
+  "entryPoints": [
+    "./src/ejercicio-1/artista.ts",
+    "./src/ejercicio-1/cancion.ts",
+    "./src/ejercicio-1/disco.ts",
+    "./src/ejercicio-1/grupo.ts",
+    "./src/ejercicio-1/solista.ts",
+    "./src/ejercicio-1/biblioteca_musical.ts",
+    "./src/ejercicio-2/conecta_cuatro.ts",
+    "./src/ejercicio-2/jugador.ts",
+    "./src/ejercicio-3.ts",
+    "./src/ejercicio-4.ts"
+  ],
+  "out": "./docs"
+}
