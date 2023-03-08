@@ -1,6 +1,6 @@
 import 'mocha';
 import {expect} from 'chai';
-import { NumericPrintableCollection } from "../src/ejercicio-pe/numeric-printable-collection";
+import { NumericPrintableCollection } from "../../src/ejercicio-pe/numeric-printable-collection";
 
 
 

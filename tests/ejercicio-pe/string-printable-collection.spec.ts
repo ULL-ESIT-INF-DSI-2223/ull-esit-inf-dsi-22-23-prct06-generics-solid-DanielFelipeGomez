@@ -1,6 +1,6 @@
 import 'mocha';
 import {expect} from 'chai';
-import { StringPrintableCollection } from "../src/ejercicio-pe/string-printable-collection";
+import { StringPrintableCollection } from "../../src/ejercicio-pe/string-printable-collection";
 
 
 
