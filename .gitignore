@@ -1,4 +1,4 @@
 node_modules
 dist
-.vscode
-.nyc_output
+.vscode/
+.nyc_output/
